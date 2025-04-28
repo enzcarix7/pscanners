@@ -27,7 +27,7 @@ Ensure that the `nmap` tool is installed on your system. If it's not, you can in
 
 2. Run the script using Python:
     ```bash
-    python nmap_script.py
+    python nmapxvulnscan.py
     ```
 
 3. The script will prompt you to enter a target IP or domain:
