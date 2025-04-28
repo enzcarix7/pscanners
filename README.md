@@ -14,6 +14,7 @@ To use this script, you will need:
 - Python 3.x
 - Nmap installed on your system
 - `python-nmap` library for Python
+- On MacOS you may need to use sudo to run Nmap script
 
 You can install the necessary Python library by running:
 
